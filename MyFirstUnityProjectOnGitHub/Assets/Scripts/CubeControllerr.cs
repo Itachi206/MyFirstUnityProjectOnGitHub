@@ -21,6 +21,12 @@ public class CubeControllerr : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+    //     hskadjhfjsalhfihy q
+    //     lksahdfi hilahfg
+    //     aklbkjfgbiahbgfknaskdgf
+    //     kbasdgbuhgbsg
+    //     asndkfgbaisfbh
+    //     lasbnkjdgfisabgf
+    //     ]sakjjbdfglksabgiub
     }
 }
